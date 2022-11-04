@@ -300,6 +300,11 @@ h2 {
   #about .avatar {
     display: none;
   }
+
+  table td{
+    display: block;
+    margin-bottom: 1rem;
+  }
 }
 
 @media (max-width: 460px) { 
