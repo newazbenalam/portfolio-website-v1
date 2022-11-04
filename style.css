@@ -229,6 +229,7 @@ h2 {
 .project-container {
   display: flex;
   justify-content: space-around;
+  flex-wrap: wrap;
 }
 
 .project-card {
